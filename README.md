@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @gulalaiy
 - 👀 I’m interested in CS, AI, web dev, etc!
-- 🌱 I’m currently learning from the GWC SPP program
 - 😄 Pronouns: she/her
 
 
