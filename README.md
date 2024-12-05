@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @gulalaiy
-- 👀 I’m interested in CS, AI, web dev, etc!
-- 😄 Pronouns: she/her
+- Hi, I’m @gulalaiy
+- I’m interested in CS, AI, web dev, etc!
+- she/her
 
 
 
