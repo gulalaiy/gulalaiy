@@ -1,6 +1,4 @@
-- Hi, I’m @gulalaiy
-- I’m interested in CS, AI, web dev, etc!
-- she/her
+hi, i'm gulalaiy (she/her). i'm interested in cs, ai, and data science. i enjoy learning something new everyday!
 
 
 
