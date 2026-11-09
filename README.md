@@ -1,4 +1,4 @@
-hi, i'm gulalaiy (she/her). i'm interested in cs, ai, data science, and astronomy/astrophysics. i enjoy learning something new everyday :)
+hi, i'm gulalaiy (she/her). i'm interested in cs, data science, and astronomy/astrophysics. i enjoy learning something new everyday :)
 
 
 
